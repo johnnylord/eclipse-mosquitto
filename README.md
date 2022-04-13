@@ -7,6 +7,12 @@
 - Python 3.7.1
 ```
 
+## Prerequisites
+Install related python pakcages
+```bash
+$ python3 -m pip install -r requirements.txt
+```
+
 ## How to run
 - Run the eclipse mosquitto docker container
 ```bash
